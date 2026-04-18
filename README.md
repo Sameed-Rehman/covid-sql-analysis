@@ -119,7 +119,7 @@ The project uses two primary datasets:
 
 ## 👤 Author
 
-**Iman Tanveer**
+**Sameed Ur Rehman**
 Aspiring Data Analyst | SQL Enthusiast
 
 ---
@@ -127,3 +127,4 @@ Aspiring Data Analyst | SQL Enthusiast
 ## ⭐ Final Note
 
 This project highlights practical SQL skills applied to real-world data, focusing on extracting insights rather than just querying data.
+
