@@ -127,4 +127,11 @@ Aspiring Data Analyst | SQL Enthusiast
 ## ⭐ Final Note
 
 This project highlights practical SQL skills applied to real-world data, focusing on extracting insights rather than just querying data.
+---
+
+## 📦 Data
+
+Raw source files are included in the data/ folder:
+
+* data/CovidDeaths.xlsx`n* data/CovidVaccination.xlsx`n
 
